@@ -1,9 +1,7 @@
 # Git Practice
 
 
-When AI writes almost all code, what happens to software engineering? "https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what"
+When AI writes almost all code, what happens to software engineering? 
+"https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what"
 
 I find this article interesting because it explains how new AI tools are becoming good enough to generate most of the code people write, which could change the future of software engineering and what skills developers need to succeed.
-
-
-"A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md)."
