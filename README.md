@@ -2,8 +2,10 @@
 
 [When AI writes almost all code, what happens to software engineering?]
 (https://newsletter.pragmaticengineer.com/p/when-ai-writes-almost-all-code-what)
-Written By: Gergely Orosz
-Published: Jan 06, 2026
+
+
+**Written By**: Gergely Orosz  
+**Published**: Jan 06, 2026
 
 
 ## Thoughts
